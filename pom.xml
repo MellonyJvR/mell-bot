@@ -23,7 +23,7 @@
         <configuration>
           <archive>
             <manifest>
-              <mainClass>com.bot.Main</mainClass>
+              <mainClass>com.bot.LaptopCoverBot</mainClass>
             </manifest>
           </archive>
           <descriptorRefs>
